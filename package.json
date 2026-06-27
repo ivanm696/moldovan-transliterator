@@ -1,0 +1,16 @@
+{
+  "name": "moldovan-transliterator",
+  "version": "1.0.0",
+  "description": "Latin <-> Cyrillic transliterator for Moldovan language (mol / ISO 639-3)",
+  "main": "src/index.js",
+  "keywords": ["moldova", "moldovan", "transliterator", "cyrillic", "latin", "mol"],
+  "author": "ivanm696",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanm696/moldovan-transliterator"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  }
+}
